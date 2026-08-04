@@ -42,4 +42,4 @@ This project performs Exploratory Data Analysis (EDA) on a retail sales dataset 
 
 ## Author
 
-anjigoud
+Anjigoud
